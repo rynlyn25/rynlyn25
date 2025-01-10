@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**rynlyn25/rynlyn25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!💗 My name is Reynalyn Morbo. I am from De la Salle Araneta University taking a BS in Computer Science.
 
 Here are some ideas to get you started:
 
